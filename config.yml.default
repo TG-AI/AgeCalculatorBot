@@ -1,4 +1,4 @@
 agecalculator:
-  bottoken: <BotToken>
-  errorid: <User-ID>
-  debug: <True-or-False>
+  bottoken = os.environ[SOME_TOKEN]
+  errorid = os.environ[SOME_TOKEN]
+  debug = True
