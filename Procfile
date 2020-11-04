@@ -1,1 +1,1 @@
-web: python3 -m AgeCalculatorBot.py
+web: python3 AgeCalculatorBot.py
